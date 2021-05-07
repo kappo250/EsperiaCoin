@@ -4,7 +4,7 @@ hello, this is a basic example file that i used for create my first token with t
 <p>
   this is the Contract: 0x74D5Ad39798289D4d2809316896eC5eb38CEb8bF
   <br/>
-  link to ropster ehterscan: https://ropsten.etherscan.io/address/0x74d5ad39798289d4d2809316896ec5eb38ceb8bf
+  link to ropster etherscan: https://ropsten.etherscan.io/address/0x74d5ad39798289d4d2809316896ec5eb38ceb8bf
 </p>
 <br/>
 Metadata of "esperiacoin" was published successfully.
