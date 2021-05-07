@@ -1,2 +1,2 @@
 # EsperiaCoin
-ETH Token to use in my school
+hello, this is a basic example file that i used for create my first token with the Ethereum blockchain
